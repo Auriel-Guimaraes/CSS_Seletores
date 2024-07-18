@@ -7,3 +7,6 @@ p {
 strong {
     color: red;
 }
+em.destaque {
+    fonte-weight="bold"
+}
